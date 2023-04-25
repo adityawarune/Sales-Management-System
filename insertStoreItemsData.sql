@@ -1,0 +1,12 @@
+Insert into StoreItems (ItemId, Price, NoOfCopies) values (1, 15, 1);
+Insert into StoreItems (ItemId, Price, NoOfCopies) values (2, 10, 2);
+Insert into StoreItems (ItemId, Price, NoOfCopies) values (3, 10, 3);
+Insert into StoreItems (ItemId, Price, NoOfCopies) values (4, 15, 4);
+Insert into StoreItems (ItemId, Price, NoOfCopies) values (5, 12, 5);
+Insert into StoreItems (ItemId, Price, NoOfCopies) values (6, 25, 6);
+Insert into StoreItems (ItemId, Price, NoOfCopies) values (7, 12, 7);
+Insert into StoreItems (ItemId, Price, NoOfCopies) values (8, 25, 8);
+Insert into StoreItems (ItemId, Price, NoOfCopies) values (9, 20, 9);
+Insert into StoreItems (ItemId, Price, NoOfCopies) values (10, 22, 10);
+Insert into StoreItems (ItemId, Price, NoOfCopies) values (11, 20, 11);
+Insert into StoreItems (ItemId, Price, NoOfCopies) values (12, 22, 12);
